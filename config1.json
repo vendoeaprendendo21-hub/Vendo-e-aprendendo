@@ -51,7 +51,7 @@
         "sound_pt_id": "tempestade_pt.mp3"
       }
     ]
-  }
+  },
   {
     "name": "Cores",
     "color": "#2196F3",
@@ -64,7 +64,7 @@
         "sound_pt_id": "azul_pt.mp3"
       }
     ]
-  }
+  },
   {
     "name": "Objetos",
     "color": "#2196F3",
@@ -77,5 +77,5 @@
         "sound_pt_id": "carro_pt.mp3"
       }
     ]
-  }  
+  }
 ]
