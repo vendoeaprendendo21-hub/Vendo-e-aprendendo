@@ -30,6 +30,18 @@
     ]
   },
   {
+    "name": "Cores",
+    "color": "#e80c0f",
+    "items": [
+      {
+        "image_id": "1CjbtPKAFwgsDdlL33WsBWyqQxwBo3X-v",
+        "sound_id": "1qCldeL9VQloYW8K7B_mKeD081GcEF76K",
+        "sound_en_id": "10woXsf6iO3LQ3jERRZ8qKlwuXn4axXmb",
+        "sound_pt_id": "1VfgK_GvBs2FFOWHz1CufYExnNKBVFvak"
+      }
+    ]
+  },
+  {
     "name": "Natureza",
     "color": "#4CAF50",
     "items": [
