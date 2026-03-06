@@ -41,7 +41,7 @@
   },
   {
     "name": "Natureza",
-    "color": "#2196F3",
+    "color": "#40db45",
     "items": [
       {
         "name_item": "Tempestade",
@@ -54,7 +54,7 @@
   },
   {
     "name": "Cores",
-    "color": "#2196F3",
+    "color": "#f2f222",
     "items": [
       {
         "name_item": "Azul",
@@ -67,7 +67,7 @@
   },
   {
     "name": "Objetos",
-    "color": "#2196F3",
+    "color": "#b3bdb4",
     "items": [
       {
         "name_item": "Carro",
