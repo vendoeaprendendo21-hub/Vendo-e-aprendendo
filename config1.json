@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Animais",
+    "color": "#FF9800",
+    "items": [
+      {
+        "name_item": "Gato",
+        "image_id": "gato.webp",
+        "sound_id": "gato_real.mp3",
+        "sound_en_id": "cat_en.mp3",
+        "sound_pt_id": "gato_pt.mp3"
+      },
+      {
+        "name_item": "Cachorro",
+        "image_id": "cachorro.webp",
+        "sound_id": "cachorro_real.mp3",
+        "sound_en_id": "dog_en.mp3",
+        "sound_pt_id": "cachorro_pt.mp3"
+      },
+      {
+        "name_item": "Urso",
+        "image_id": "urso.webp",
+        "sound_id": "urso_real.mp3",
+        "sound_en_id": "bear_en.mp3",
+        "sound_pt_id": "urso_pt.mp3"
+      }
+    ]
+  },
+  {
+    "name": "Veículos",
+    "color": "#2196F3",
+    "items": [
+      {
+        "name_item": "Carro",
+        "image_id": "carro.webp",
+        "sound_id": "carro_real.mp3",
+        "sound_en_id": "car_en.mp3",
+        "sound_pt_id": "carro_pt.mp3"
+      }
+    ]
+  }
+]
