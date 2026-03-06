@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Animais",
+    "color": "#FF9800",
+    "items": [
+      {
+        "image_id": "1AAQqfHLVGGqHN6QLxLybwqZdFF6bL9fk",
+        "sound_id": "1ancPbg-8SZcZhzafuv93-CKecWGlWjoQ",
+        "sound_en_id": "119uTnxStX4HVELjJ6xjwIFfKE7Vo5zrZ",
+        "sound_pt_id": "1w0wQZnyDECWm03oidagNIB3b2ZtptWJN"
+      },
+      {
+        "image_id": "1iPp5khvYZdAwlxKiWbpOUOtqX9uFTLpL",
+        "sound_id": "1EVyHv-JTZq6IbdhEc-kdyRCrTArVpX_v",
+        "sound_en_id": "16zgPik5qKomsmVIBV-wcJ3N5oQpWkckU",
+        "sound_pt_id": "1j8uZ1at1B5SWJSN8Z_TV9IY1PCdIdkRM"
+      },
+      {
+        "image_id": "1RJoDzg5q82ezlpZACZWgdHlEXvgl_n5-",
+        "sound_id": "ID_SOM_URSO_REAL",
+        "sound_en_id": "ID_SOM_BEAR_ENGLISH",
+        "sound_pt_id": "ID_SOM_URSO_PORTUGUES"
+      }
+    ]
+  },
+  {
+    "name": "Natureza",
+    "color": "#4CAF50",
+    "items": [
+      {
+        "image_id": "1CjbtPKAFwgsDdlL33WsBWyqQxwBo3X-v",
+        "sound_id": "1qCldeL9VQloYW8K7B_mKeD081GcEF76K",
+        "sound_en_id": "10woXsf6iO3LQ3jERRZ8qKlwuXn4axXmb",
+        "sound_pt_id": "1VfgK_GvBs2FFOWHz1CufYExnNKBVFvak"
+      }
+    ]
+  },
+  {
+    "name": "Veículos",
+    "color": "#2196F3",
+    "items": [
+      {
+        "image_id": "1SKA4FW65ppa2Vbbo89fZoIbejMD4SF0x",
+        "sound_id": "1mpuumMyNo_u8TsF6TjVn_IR-ZqPH7PDS",
+        "sound_en_id": "1kkuaLYWeeWFCDT1DcONQz9gjSHXPj1ws",
+        "sound_pt_id": "1bP2W1astTkFXgrSv3t7u3LgosNGn7qiD"
+      }
+    ]
+  }
+]
