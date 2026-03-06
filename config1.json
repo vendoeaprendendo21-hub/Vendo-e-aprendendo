@@ -5,21 +5,21 @@
     "items": [
       {
         "name_item": "Gato",
-        "image_id": "gato.webp",
+        "image_id": "gato.png",
         "sound_id": "gato_real.mp3",
         "sound_en_id": "cat_en.mp3",
         "sound_pt_id": "gato_pt.mp3"
       },
       {
         "name_item": "Cachorro",
-        "image_id": "cachorro.webp",
+        "image_id": "cachorro.png",
         "sound_id": "cachorro_real.mp3",
         "sound_en_id": "dog_en.mp3",
         "sound_pt_id": "cachorro_pt.mp3"
       },
       {
         "name_item": "Urso",
-        "image_id": "urso.webp",
+        "image_id": "urso.png",
         "sound_id": "urso_real.mp3",
         "sound_en_id": "bear_en.mp3",
         "sound_pt_id": "urso_pt.mp3"
@@ -32,11 +32,50 @@
     "items": [
       {
         "name_item": "Carro",
-        "image_id": "carro.webp",
+        "image_id": "carro.png",
         "sound_id": "carro_real.mp3",
         "sound_en_id": "car_en.mp3",
         "sound_pt_id": "carro_pt.mp3"
       }
     ]
+  },
+  {
+    "name": "Natureza",
+    "color": "#2196F3",
+    "items": [
+      {
+        "name_item": "Tempestade",
+        "image_id": "tempestade.png",
+        "sound_id": "tempestade_real.mp3",
+        "sound_en_id": "storm_en.mp3",
+        "sound_pt_id": "tempestade_pt.mp3"
+      }
+    ]
   }
+  {
+    "name": "Cores",
+    "color": "#2196F3",
+    "items": [
+      {
+        "name_item": "Azul",
+        "image_id": "azul.png",
+        "sound_id": "azul_real.mp3",
+        "sound_en_id": "blue_en.mp3",
+        "sound_pt_id": "azul_pt.mp3"
+      }
+    ]
+  }
+  {
+    "name": "Objetos",
+    "color": "#2196F3",
+    "items": [
+      {
+        "name_item": "Carro",
+        "image_id": "carro.png",
+        "sound_id": "carro_real.mp3",
+        "sound_en_id": "car_en.mp3",
+        "sound_pt_id": "carro_pt.mp3"
+      }
+    ]
+  }  
 ]
