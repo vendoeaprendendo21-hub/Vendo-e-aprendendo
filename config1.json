@@ -52,14 +52,22 @@
       }
     ]
   },
+  
   {
     "name": "Cores",
     "color": "#f2f222",
     "items": [
       {
+        "name_item": "Amarelo",
+        "image_id": "amarelo.png",
+        "sound_id": "",
+        "sound_en_id": "yellow_en.mp3",
+        "sound_pt_id": "amarelo_pt.mp3"
+      }
+      {
         "name_item": "Azul",
         "image_id": "azul.png",
-        "sound_id": "azul_real.mp3",
+        "sound_id": "",
         "sound_en_id": "blue_en.mp3",
         "sound_pt_id": "azul_pt.mp3"
       }
@@ -72,7 +80,7 @@
       {
         "name_item": "Carro",
         "image_id": "carro.png",
-        "sound_id": "carro_real.mp3",
+        "sound_id": "",
         "sound_en_id": "car_en.mp3",
         "sound_pt_id": "carro_pt.mp3"
       }
