@@ -45,7 +45,7 @@
     "items": [
       {
         "name_item": "Tempestade",
-        "image_id": "tempestade.png",
+        "image_id": "tempestade.gif",
         "sound_id": "tempestade_real.mp3",
         "sound_en_id": "storm_en.mp3",
         "sound_pt_id": "tempestade_pt.mp3"
