@@ -1,0 +1,262 @@
+[
+  {
+    "name": "Animais de Fazenda",
+    "color": "#4CAF50",
+    "items": [
+      { "name_item": "Abelha", "image_id": "abelha.png", "sound_id": "abelha_real.mp3", "sound_en_id": "bee_en.mp3", "sound_pt_id": "abelha_pt.mp3" },
+      { "name_item": "Bode", "image_id": "bode.png", "sound_id": "bode_real.mp3", "sound_en_id": "goat_en.mp3", "sound_pt_id": "bode_pt.mp3" },
+      { "name_item": "Boi", "image_id": "boi.png", "sound_id": "boi_real.mp3", "sound_en_id": "ox_en.mp3", "sound_pt_id": "boi_pt.mp3" },
+      { "name_item": "Burro", "image_id": "burro.png", "sound_id": "burro_real.mp3", "sound_en_id": "donkey_en.mp3", "sound_pt_id": "burro_pt.mp3" },
+      { "name_item": "Cachorro", "image_id": "cachorro.png", "sound_id": "cachorro_real.mp3", "sound_en_id": "dog_en.mp3", "sound_pt_id": "cachorro_pt.mp3" },
+      { "name_item": "Carneiro", "image_id": "carneiro.png", "sound_id": "carneiro_real.mp3", "sound_en_id": "ram_en.mp3", "sound_pt_id": "carneiro_pt.mp3" },
+      { "name_item": "Cavalo", "image_id": "cavalo.png", "sound_id": "cavalo_real.mp3", "sound_en_id": "horse_en.mp3", "sound_pt_id": "cavalo_pt.mp3" },
+      { "name_item": "Coelho", "image_id": "coelho_fazenda.png", "sound_id": "coelho_real.mp3", "sound_en_id": "rabbit_en.mp3", "sound_pt_id": "coelho_pt.mp3" },
+      { "name_item": "Galinha", "image_id": "galinha.png", "sound_id": "galinha_real.mp3", "sound_en_id": "chicken_en.mp3", "sound_pt_id": "galinha_pt.mp3" },
+      { "name_item": "Galo", "image_id": "galo.png", "sound_id": "galo_real.mp3", "sound_en_id": "rooster_en.mp3", "sound_pt_id": "galo_pt.mp3" },
+      { "name_item": "Ganso", "image_id": "ganso.png", "sound_id": "ganso_real.mp3", "sound_en_id": "goose_en.mp3", "sound_pt_id": "ganso_pt.mp3" },
+      { "name_item": "Gato", "image_id": "gato.png", "sound_id": "gato_real.mp3", "sound_en_id": "cat_en.mp3", "sound_pt_id": "gato_pt.mp3" },
+      { "name_item": "Jumento", "image_id": "jumento.png", "sound_id": "jumento_real.mp3", "sound_en_id": "donkey_alt_en.mp3", "sound_pt_id": "jumento_pt.mp3" },
+      { "name_item": "Ovelha", "image_id": "ovelha.png", "sound_id": "ovelha_real.mp3", "sound_en_id": "sheep_en.mp3", "sound_pt_id": "ovelha_pt.mp3" },
+      { "name_item": "Pato", "image_id": "pato.png", "sound_id": "pato_real.mp3", "sound_en_id": "duck_en.mp3", "sound_pt_id": "pato_pt.mp3" },
+      { "name_item": "Peru", "image_id": "peru.png", "sound_id": "peru_real.mp3", "sound_en_id": "turkey_en.mp3", "sound_pt_id": "peru_pt.mp3" },
+      { "name_item": "Pinto", "image_id": "pinto.png", "sound_id": "pinto_real.mp3", "sound_en_id": "chick_en.mp3", "sound_pt_id": "pinto_pt.mp3" },
+      { "name_item": "Porco", "image_id": "porco.png", "sound_id": "porco_real.mp3", "sound_en_id": "pig_en.mp3", "sound_pt_id": "porco_pt.mp3" },
+      { "name_item": "Touro", "image_id": "touro.png", "sound_id": "touro_real.mp3", "sound_en_id": "bull_en.mp3", "sound_pt_id": "touro_pt.mp3" },
+      { "name_item": "Vaca", "image_id": "vaca.png", "sound_id": "vaca_real.mp3", "sound_en_id": "cow_en.mp3", "sound_pt_id": "vaca_pt.mp3" }
+    ]
+  },
+  {
+    "name": "Animais Domésticos",
+    "color": "#2196F3",
+    "items": [
+      { "name_item": "Cachorro", "image_id": "cachorro.png", "sound_id": "cachorro_real.mp3", "sound_en_id": "dog_en.mp3", "sound_pt_id": "cachorro_pt.mp3" },
+      { "name_item": "Calopsita", "image_id": "calopsita.png", "sound_id": "calopsita_real.mp3", "sound_en_id": "cockatiel_en.mp3", "sound_pt_id": "calopsita_pt.mp3" },
+      { "name_item": "Canário", "image_id": "canario.png", "sound_id": "canario_real.mp3", "sound_en_id": "canary_en.mp3", "sound_pt_id": "canario_pt.mp3" },
+      { "name_item": "Chinchila", "image_id": "chinchila.png", "sound_id": "chinchila_real.mp3", "sound_en_id": "chinchilla_en.mp3", "sound_pt_id": "chinchila_pt.mp3" },
+      { "name_item": "Coelho", "image_id": "coelho.png", "sound_id": "coelho_real.mp3", "sound_en_id": "rabbit_en.mp3", "sound_pt_id": "coelho_pt.mp3" },
+      { "name_item": "Ferret", "image_id": "ferret.png", "sound_id": "ferret_real.mp3", "sound_en_id": "ferret_en.mp3", "sound_pt_id": "ferret_pt.mp3" },
+      { "name_item": "Gato", "image_id": "gato.png", "sound_id": "gato_real.mp3", "sound_en_id": "cat_en.mp3", "sound_pt_id": "gato_pt.mp3" },
+      { "name_item": "Hamster", "image_id": "hamster.png", "sound_id": "hamster_real.mp3", "sound_en_id": "hamster_en.mp3", "sound_pt_id": "hamster_pt.mp3" },
+      { "name_item": "Iguana", "image_id": "iguana_pet.png", "sound_id": "iguana_real.mp3", "sound_en_id": "iguana_en.mp3", "sound_pt_id": "iguana_pt.mp3" },
+      { "name_item": "Jabuti", "image_id": "jabuti.png", "sound_id": "jabuti_real.mp3", "sound_en_id": "tortoise_en.mp3", "sound_pt_id": "jabuti_pt.mp3" },
+      { "name_item": "Papagaio", "image_id": "papagaio.png", "sound_id": "papagaio_real.mp3", "sound_en_id": "parrot_en.mp3", "sound_pt_id": "papagaio_pt.mp3" },
+      { "name_item": "Peixinho Dourado", "image_id": "peixinho.png", "sound_id": "peixe_real.mp3", "sound_en_id": "goldfish_en.mp3", "sound_pt_id": "peixinho_pt.mp3" },
+      { "name_item": "Porquinho-da-índia", "image_id": "porquinho_india.png", "sound_id": "porquinho_india_real.mp3", "sound_en_id": "guinea_pig_en.mp3", "sound_pt_id": "porquinho_india_pt.mp3" },
+      { "name_item": "Rato Twister", "image_id": "rato_pet.png", "sound_id": "rato_real.mp3", "sound_en_id": "rat_en.mp3", "sound_pt_id": "rato_pt.mp3" }
+    ]
+  },
+  {
+    "name": "Animais Marinhos",
+    "color": "#00BCD4",
+    "items": [
+      { "name_item": "Arraia", "image_id": "arraia.png", "sound_id": "arraia_real.mp3", "sound_en_id": "stingray_en.mp3", "sound_pt_id": "arraia_pt.mp3" },
+      { "name_item": "Baleia", "image_id": "baleia.png", "sound_id": "baleia_real.mp3", "sound_en_id": "whale_en.mp3", "sound_pt_id": "baleia_pt.mp3" },
+      { "name_item": "Camarão", "image_id": "camarao.png", "sound_id": "camarao_real.mp3", "sound_en_id": "shrimp_en.mp3", "sound_pt_id": "camarao_pt.mp3" },
+      { "name_item": "Caranguejo", "image_id": "caranguejo.png", "sound_id": "caranguejo_real.mp3", "sound_en_id": "crab_en.mp3", "sound_pt_id": "caranguejo_pt.mp3" },
+      { "name_item": "Cavalo-marinho", "image_id": "cavalo_marinho.png", "sound_id": "cavalo_marinho_real.mp3", "sound_en_id": "seahorse_en.mp3", "sound_pt_id": "cavalo_marinho_pt.mp3" },
+      { "name_item": "Estrela-do-mar", "image_id": "estrela_mar.png", "sound_id": "estrela_mar_real.mp3", "sound_en_id": "starfish_en.mp3", "sound_pt_id": "estrela_mar_pt.mp3" },
+      { "name_item": "Foca", "image_id": "foca.png", "sound_id": "foca_real.mp3", "sound_en_id": "seal_en.mp3", "sound_pt_id": "foca_pt.mp3" },
+      { "name_item": "Golfinho", "image_id": "golfinho.png", "sound_id": "golfinho_real.mp3", "sound_en_id": "dolphin_en.mp3", "sound_pt_id": "golfinho_pt.mp3" },
+      { "name_item": "Lagosta", "image_id": "lagosta.png", "sound_id": "lagosta_real.mp3", "sound_en_id": "lobster_en.mp3", "sound_pt_id": "lagosta_pt.mp3" },
+      { "name_item": "Lula", "image_id": "lula.png", "sound_id": "lula_real.mp3", "sound_en_id": "squid_en.mp3", "sound_pt_id": "lula_pt.mp3" },
+      { "name_item": "Medusa", "image_id": "medusa.png", "sound_id": "medusa_real.mp3", "sound_en_id": "jellyfish_en.mp3", "sound_pt_id": "medusa_pt.mp3" },
+      { "name_item": "Morsa", "image_id": "morsa.png", "sound_id": "morsa_real.mp3", "sound_en_id": "walrus_en.mp3", "sound_pt_id": "morsa_pt.mp3" },
+      { "name_item": "Peixe", "image_id": "peixe.png", "sound_id": "peixe_real.mp3", "sound_en_id": "fish_en.mp3", "sound_pt_id": "peixe_pt.mp3" },
+      { "name_item": "Peixe-palhaço", "image_id": "peixe_palhaco.png", "sound_id": "peixe_palhaco_real.mp3", "sound_en_id": "clownfish_en.mp3", "sound_pt_id": "peixe_palhaco_pt.mp3" },
+      { "name_item": "Polvo", "image_id": "polvo.png", "sound_id": "polvo_real.mp3", "sound_en_id": "octopus_en.mp3", "sound_pt_id": "polvo_pt.mp3" },
+      { "name_item": "Tartaruga Marinha", "image_id": "tartaruga_marinha.png", "sound_id": "tartaruga_marinha_real.mp3", "sound_en_id": "sea_turtle_en.mp3", "sound_pt_id": "tartaruga_marinha_pt.mp3" },
+      { "name_item": "Tubarão", "image_id": "tubarao.png", "sound_id": "tubarao_real.mp3", "sound_en_id": "shark_en.mp3", "sound_pt_id": "tubarao_pt.mp3" }
+    ]
+  },
+  {
+    "name": "Animais Selvagens",
+    "color": "#FF5722",
+    "items": [
+      { "name_item": "Cobra", "image_id": "cobra.png", "sound_id": "cobra_real.mp3", "sound_en_id": "snake_en.mp3", "sound_pt_id": "cobra_pt.mp3" },
+      { "name_item": "Elefante", "image_id": "elefante.png", "sound_id": "elefante_real.mp3", "sound_en_id": "elephant_en.mp3", "sound_pt_id": "elefante_pt.mp3" },
+      { "name_item": "Girafa", "image_id": "girafa.png", "sound_id": "girafa_real.mp3", "sound_en_id": "giraffe_en.mp3", "sound_pt_id": "girafa_pt.mp3" },
+      { "name_item": "Gorila", "image_id": "gorila.png", "sound_id": "gorila_real.mp3", "sound_en_id": "gorilla_en.mp3", "sound_pt_id": "gorila_pt.mp3" },
+      { "name_item": "Hipopótamo", "image_id": "hipopotamo.png", "sound_id": "hipopotamo_real.mp3", "sound_en_id": "hippo_en.mp3", "sound_pt_id": "hipopotamo_pt.mp3" },
+      { "name_item": "Jacaré", "image_id": "jacare.png", "sound_id": "jacare_real.mp3", "sound_en_id": "alligator_en.mp3", "sound_pt_id": "jacare_pt.mp3" },
+      { "name_item": "Kanguru", "image_id": "kanguru.png", "sound_id": "kanguru_real.mp3", "sound_en_id": "kangaroo_en.mp3", "sound_pt_id": "kanguru_pt.mp3" },
+      { "name_item": "Leão", "image_id": "leao.png", "sound_id": "leao_real.mp3", "sound_en_id": "lion_en.mp3", "sound_pt_id": "leao_pt.mp3" },
+      { "name_item": "Leopardo", "image_id": "leopardo.png", "sound_id": "leopardo_real.mp3", "sound_en_id": "leopard_en.mp3", "sound_pt_id": "leopardo_pt.mp3" },
+      { "name_item": "Lobo", "image_id": "lobo.png", "sound_id": "lobo_real.mp3", "sound_en_id": "wolf_en.mp3", "sound_pt_id": "lobo_pt.mp3" },
+      { "name_item": "Macaco", "image_id": "macaco.png", "sound_id": "macaco_real.mp3", "sound_en_id": "monkey_en.mp3", "sound_pt_id": "macaco_pt.mp3" },
+      { "name_item": "Rinoceronte", "image_id": "rinoceronte.png", "sound_id": "rinoceronte_real.mp3", "sound_en_id": "rhino_en.mp3", "sound_pt_id": "rinoceronte_pt.mp3" },
+      { "name_item": "Tigre", "image_id": "tigre.png", "sound_id": "tigre_real.mp3", "sound_en_id": "tiger_en.mp3", "sound_pt_id": "tigre_pt.mp3" },
+      { "name_item": "Urso", "image_id": "urso.png", "sound_id": "urso_real.mp3", "sound_en_id": "bear_en.mp3", "sound_pt_id": "urso_pt.mp3" },
+      { "name_item": "Zebra", "image_id": "zebra.png", "sound_id": "zebra_real.mp3", "sound_en_id": "zebra_en.mp3", "sound_pt_id": "zebra_pt.mp3" }
+    ]
+  },
+  {
+    "name": "Aves",
+    "color": "#03A9F4",
+    "items": [
+      { "name_item": "Águia", "image_id": "aguia.png", "sound_id": "aguia_real.mp3", "sound_en_id": "eagle_en.mp3", "sound_pt_id": "aguia_pt.mp3" },
+      { "name_item": "Arara", "image_id": "arara.png", "sound_id": "arara_real.mp3", "sound_en_id": "macaw_en.mp3", "sound_pt_id": "arara_pt.mp3" },
+      { "name_item": "Avestruz", "image_id": "avestruz.png", "sound_id": "avestruz_real.mp3", "sound_en_id": "ostrich_en.mp3", "sound_pt_id": "avestruz_pt.mp3" },
+      { "name_item": "Beija-flor", "image_id": "beija_flor.png", "sound_id": "beija_flor_real.mp3", "sound_en_id": "hummingbird_en.mp3", "sound_pt_id": "beija_flor_pt.mp3" },
+      { "name_item": "Bem-te-vi", "image_id": "bem_te_vi.png", "sound_id": "bem_te_vi_real.mp3", "sound_en_id": "kiskadee_en.mp3", "sound_pt_id": "bem_te_vi_pt.mp3" },
+      { "name_item": "Cacatua", "image_id": "cacatua.png", "sound_id": "cacatua_real.mp3", "sound_en_id": "cockatoo_en.mp3", "sound_pt_id": "cacatua_pt.mp3" },
+      { "name_item": "Cisne", "image_id": "cisne.png", "sound_id": "cisne_real.mp3", "sound_en_id": "swan_en.mp3", "sound_pt_id": "cisne_pt.mp3" },
+      { "name_item": "Coruja", "image_id": "coruja.png", "sound_id": "coruja_real.mp3", "sound_en_id": "owl_en.mp3", "sound_pt_id": "coruja_pt.mp3" },
+      { "name_item": "Corvo", "image_id": "corvo.png", "sound_id": "corvo_real.mp3", "sound_en_id": "raven_en.mp3", "sound_pt_id": "corvo_pt.mp3" },
+      { "name_item": "Falcão", "image_id": "falcao.png", "sound_id": "falcao_real.mp3", "sound_en_id": "falcon_en.mp3", "sound_pt_id": "falcao_pt.mp3" },
+      { "name_item": "Flamingo", "image_id": "flamingo.png", "sound_id": "flamingo_real.mp3", "sound_en_id": "flamingo_en.mp3", "sound_pt_id": "flamingo_pt.mp3" },
+      { "name_item": "Gaivota", "image_id": "gaivota.png", "sound_id": "gaivota_real.mp3", "sound_en_id": "seagull_en.mp3", "sound_pt_id": "gaivota_pt.mp3" },
+      { "name_item": "Pinguim", "image_id": "pinguim.png", "sound_id": "pinguim_real.mp3", "sound_en_id": "penguin_en.mp3", "sound_pt_id": "pinguim_pt.mp3" },
+      { "name_item": "Pavão", "image_id": "pavao.png", "sound_id": "pavao_real.mp3", "sound_en_id": "peacock_en.mp3", "sound_pt_id": "pavao_pt.mp3" },
+      { "name_item": "Pelicano", "image_id": "pelicano.png", "sound_id": "pelicano_real.mp3", "sound_en_id": "pelican_en.mp3", "sound_pt_id": "pelicano_pt.mp3" },
+      { "name_item": "Pica-pau", "image_id": "pica_pau.png", "sound_id": "pica_pau_real.mp3", "sound_en_id": "woodpecker_en.mp3", "sound_pt_id": "pica_pau_pt.mp3" },
+      { "name_item": "Pombo", "image_id": "pombo.png", "sound_id": "pombo_real.mp3", "sound_en_id": "pigeon_en.mp3", "sound_pt_id": "pombo_pt.mp3" },
+      { "name_item": "Tucano", "image_id": "tucano.png", "sound_id": "tucano_real.mp3", "sound_en_id": "toucan_en.mp3", "sound_pt_id": "tucano_pt.mp3" }
+    ]
+  },
+  {
+    "name": "Dinossauros",
+    "color": "#795548",
+    "items": [
+      { "name_item": "Alossauro", "image_id": "alossauro.png", "sound_id": "alossauro_real.mp3", "sound_en_id": "allosaurus_en.mp3", "sound_pt_id": "alossauro_pt.mp3" },
+      { "name_item": "Anquilossauro", "image_id": "anquilossauro.png", "sound_id": "anquilossauro_real.mp3", "sound_en_id": "ankylosaurus_en.mp3", "sound_pt_id": "anquilossauro_pt.mp3" },
+      { "name_item": "Braquiossauro", "image_id": "braquiossauro.png", "sound_id": "braquiossauro_real.mp3", "sound_en_id": "brachiosaurus_en.mp3", "sound_pt_id": "braquiossauro_pt.mp3" },
+      { "name_item": "Compsognato", "image_id": "compsognato.png", "sound_id": "compsognato_real.mp3", "sound_en_id": "compsognathus_en.mp3", "sound_pt_id": "compsognato_pt.mp3" },
+      { "name_item": "Dilofossauro", "image_id": "dilofossauro.png", "sound_id": "dilofossauro_real.mp3", "sound_en_id": "dilophosaurus_en.mp3", "sound_pt_id": "dilofossauro_pt.mp3" },
+      { "name_item": "Espinossauro", "image_id": "espinossauro.png", "sound_id": "espinossauro_real.mp3", "sound_en_id": "spinosaurus_en.mp3", "sound_pt_id": "espinossauro_pt.mp3" },
+      { "name_item": "Estegossauro", "image_id": "estegossauro.png", "sound_id": "estegossauro_real.mp3", "sound_en_id": "stegosaurus_en.mp3", "sound_pt_id": "estegossauro_pt.mp3" },
+      { "name_item": "Iguanodonte", "image_id": "iguanodonte.png", "sound_id": "iguanodonte_real.mp3", "sound_en_id": "iguanodon_en.mp3", "sound_pt_id": "iguanodonte_pt.mp3" },
+      { "name_item": "Mussauro", "image_id": "mussauro.png", "sound_id": "mussauro_real.mp3", "sound_en_id": "mussaurus_en.mp3", "sound_pt_id": "mussauro_pt.mp3" },
+      { "name_item": "Paquicefalossauro", "image_id": "paquicefalossauro.png", "sound_id": "paqui_real.mp3", "sound_en_id": "pachy_en.mp3", "sound_pt_id": "paqui_pt.mp3" },
+      { "name_item": "Parassaurolofo", "image_id": "parassaurolofo.png", "sound_id": "para_real.mp3", "sound_en_id": "parasaurolophus_en.mp3", "sound_pt_id": "para_pt.mp3" },
+      { "name_item": "Pterodátilo", "image_id": "pterodatilo.png", "sound_id": "pterodatilo_real.mp3", "sound_en_id": "pterodactyl_en.mp3", "sound_pt_id": "pterodatilo_pt.mp3" },
+      { "name_item": "Tiranossauro Rex", "image_id": "t-rex.png", "sound_id": "t-rex_real.mp3", "sound_en_id": "t-rex_en.mp3", "sound_pt_id": "t-rex_pt.mp3" },
+      { "name_item": "Tricerátops", "image_id": "triceratops.png", "sound_id": "triceratops_real.mp3", "sound_en_id": "triceratops_en.mp3", "sound_pt_id": "triceratops_pt.mp3" },
+      { "name_item": "Velociraptor", "image_id": "velociraptor.png", "sound_id": "velociraptor_real.mp3", "sound_en_id": "velociraptor_en.mp3", "sound_pt_id": "velociraptor_pt.mp3" }
+    ]
+  },
+  {
+    "name": "Insetos",
+    "color": "#9C27B0",
+    "items": [
+      { "name_item": "Abelha", "image_id": "abelha_inseto.png", "sound_id": "abelha_real.mp3", "sound_en_id": "bee_en.mp3", "sound_pt_id": "abelha_pt.mp3" },
+      { "name_item": "Aranha", "image_id": "aranha.png", "sound_id": "aranha_real.mp3", "sound_en_id": "spider_en.mp3", "sound_pt_id": "aranha_pt.mp3" },
+      { "name_item": "Barata", "image_id": "barata.png", "sound_id": "barata_real.mp3", "sound_en_id": "cockroach_en.mp3", "sound_pt_id": "barata_pt.mp3" },
+      { "name_item": "Besouro", "image_id": "besouro.png", "sound_id": "besouro_real.mp3", "sound_en_id": "beetle_en.mp3", "sound_pt_id": "besouro_pt.mp3" },
+      { "name_item": "Borboleta", "image_id": "borboleta.png", "sound_id": "borboleta_real.mp3", "sound_en_id": "butterfly_en.mp3", "sound_pt_id": "borboleta_pt.mp3" },
+      { "name_item": "Cigarra", "image_id": "cigarra.png", "sound_id": "cigarra_real.mp3", "sound_en_id": "cicada_en.mp3", "sound_pt_id": "cigarra_pt.mp3" },
+      { "name_item": "Cupim", "image_id": "cupim.png", "sound_id": "cupim_real.mp3", "sound_en_id": "termite_en.mp3", "sound_pt_id": "cupim_pt.mp3" },
+      { "name_item": "Escorpião", "image_id": "escorpiao.png", "sound_id": "escorpiao_real.mp3", "sound_en_id": "scorpion_en.mp3", "sound_pt_id": "escorpiao_pt.mp3" },
+      { "name_item": "Formiga", "image_id": "formiga.png", "sound_id": "formiga_real.mp3", "sound_en_id": "ant_en.mp3", "sound_pt_id": "formiga_pt.mp3" },
+      { "name_item": "Gafanhoto", "image_id": "gafanhoto.png", "sound_id": "gafanhoto_real.mp3", "sound_en_id": "grasshopper_en.mp3", "sound_pt_id": "gafanhoto_pt.mp3" },
+      { "name_item": "Grilo", "image_id": "grilo.png", "sound_id": "grilo_real.mp3", "sound_en_id": "cricket_en.mp3", "sound_pt_id": "grilo_pt.mp3" },
+      { "name_item": "Joaninha", "image_id": "joaninha.png", "sound_id": "joaninha_real.mp3", "sound_en_id": "ladybug_en.mp3", "sound_pt_id": "joaninha_pt.mp3" },
+      { "name_item": "Libélula", "image_id": "libelula.png", "sound_id": "libelula_real.mp3", "sound_en_id": "dragonfly_en.mp3", "sound_pt_id": "libelula_pt.mp3" },
+      { "name_item": "Louva-a-deus", "image_id": "louva_deus.png", "sound_id": "louva_deus_real.mp3", "sound_en_id": "mantis_en.mp3", "sound_pt_id": "louva_deus_pt.mp3" },
+      { "name_item": "Mosca", "image_id": "mosca.png", "sound_id": "mosca_real.mp3", "sound_en_id": "fly_en.mp3", "sound_pt_id": "mosca_pt.mp3" },
+      { "name_item": "Pernilongo", "image_id": "pernilongo.png", "sound_id": "pernilongo_real.mp3", "sound_en_id": "mosquito_en.mp3", "sound_pt_id": "pernilongo_pt.mp3" },
+      { "name_item": "Vaga-lume", "image_id": "vagalume.png", "sound_id": "vagalume_real.mp3", "sound_en_id": "firefly_en.mp3", "sound_pt_id": "vagalume_pt.mp3" },
+      { "name_item": "Vespa", "image_id": "vespa.png", "sound_id": "vespa_real.mp3", "sound_en_id": "wasp_en.mp3", "sound_pt_id": "vespa_pt.mp3" }
+    ]
+  },
+  {
+    "name": "Meios de Transporte",
+    "color": "#9E9E9E",
+    "items": [
+      { "name_item": "Avião", "image_id": "aviao.png", "sound_id": "aviao_real.mp3", "sound_en_id": "airplane_en.mp3", "sound_pt_id": "aviao_pt.mp3" },
+      { "name_item": "Barco", "image_id": "barco.png", "sound_id": "barco_real.mp3", "sound_en_id": "boat_en.mp3", "sound_pt_id": "barco_pt.mp3" },
+      { "name_item": "Bicicleta", "image_id": "bicicleta.png", "sound_id": "bicicleta_real.mp3", "sound_en_id": "bicycle_en.mp3", "sound_pt_id": "bicicleta_pt.mp3" },
+      { "name_item": "Caminhão", "image_id": "caminhao.png", "sound_id": "caminhao_real.mp3", "sound_en_id": "truck_en.mp3", "sound_pt_id": "caminhao_pt.mp3" },
+      { "name_item": "Carro", "image_id": "carro.png", "sound_id": "carro_real.mp3", "sound_en_id": "car_en.mp3", "sound_pt_id": "carro_pt.mp3" },
+      { "name_item": "Foguete", "image_id": "foguete.png", "sound_id": "foguete_real.mp3", "sound_en_id": "rocket_en.mp3", "sound_pt_id": "foguete_pt.mp3" },
+      { "name_item": "Helicóptero", "image_id": "helicoptero.png", "sound_id": "helicoptero_real.mp3", "sound_en_id": "helicopter_en.mp3", "sound_pt_id": "helicoptero_pt.mp3" },
+      { "name_item": "Moto", "image_id": "moto.png", "sound_id": "moto_real.mp3", "sound_en_id": "motorcycle_en.mp3", "sound_pt_id": "moto_pt.mp3" },
+      { "name_item": "Navio", "image_id": "navio.png", "sound_id": "navio_real.mp3", "sound_en_id": "ship_en.mp3", "sound_pt_id": "navio_pt.mp3" },
+      { "name_item": "Ônibus", "image_id": "onibus.png", "sound_id": "onibus_real.mp3", "sound_en_id": "bus_en.mp3", "sound_pt_id": "onibus_pt.mp3" },
+      { "name_item": "Submarino", "image_id": "submarino.png", "sound_id": "submarino_real.mp3", "sound_en_id": "submarine_en.mp3", "sound_pt_id": "submarino_pt.mp3" },
+      { "name_item": "Trem", "image_id": "trem.png", "sound_id": "trem_real.mp3", "sound_en_id": "train_en.mp3", "sound_pt_id": "trem_pt.mp3" },
+      { "name_item": "Trator", "image_id": "trator.png", "sound_id": "trator_real.mp3", "sound_en_id": "tractor_en.mp3", "sound_pt_id": "trator_pt.mp3" }
+    ]
+  },
+  {
+    "name": "Objetos da Casa",
+    "color": "#FFC107",
+    "items": [
+      { "name_item": "Abajur", "image_id": "abajur.png", "sound_id": "click_real.mp3", "sound_en_id": "lamp_en.mp3", "sound_pt_id": "abajur_pt.mp3" },
+      { "name_item": "Cadeira", "image_id": "cadeira.png", "sound_id": "arrastar_real.mp3", "sound_en_id": "chair_en.mp3", "sound_pt_id": "cadeira_pt.mp3" },
+      { "name_item": "Cama", "image_id": "cama.png", "sound_id": "mola_real.mp3", "sound_en_id": "bed_en.mp3", "sound_pt_id": "cama_pt.mp3" },
+      { "name_item": "Campainha", "image_id": "campainha.png", "sound_id": "dingdong_real.mp3", "sound_en_id": "doorbell_en.mp3", "sound_pt_id": "campainha_pt.mp3" },
+      { "name_item": "Chuveiro", "image_id": "chuveiro.png", "sound_id": "agua_real.mp3", "sound_en_id": "shower_en.mp3", "sound_pt_id": "chuveiro_pt.mp3" },
+      { "name_item": "Escova de dentes", "image_id": "escova.png", "sound_id": "escovacao_real.mp3", "sound_en_id": "toothbrush_en.mp3", "sound_pt_id": "escova_pt.mp3" },
+      { "name_item": "Fogão", "image_id": "fogao.png", "sound_id": "fogo_real.mp3", "sound_en_id": "stove_en.mp3", "sound_pt_id": "fogao_pt.mp3" },
+      { "name_item": "Geladeira", "image_id": "geladeira.png", "sound_id": "motor_geladeira_real.mp3", "sound_en_id": "fridge_en.mp3", "sound_pt_id": "geladeira_pt.mp3" },
+      { "name_item": "Liquidificador", "image_id": "liquidificador.png", "sound_id": "liquidificador_real.mp3", "sound_en_id": "blender_en.mp3", "sound_pt_id": "liquidificador_pt.mp3" },
+      { "name_item": "Martelo", "image_id": "martelo.png", "sound_id": "martelo_real.mp3", "sound_en_id": "hammer_en.mp3", "sound_pt_id": "martelo_pt.mp3" },
+      { "name_item": "Micro-ondas", "image_id": "microondas.png", "sound_id": "apito_real.mp3", "sound_en_id": "microwave_en.mp3", "sound_pt_id": "microondas_pt.mp3" },
+      { "name_item": "Relógio", "image_id": "relogio.png", "sound_id": "tictac_real.mp3", "sound_en_id": "clock_en.mp3", "sound_pt_id": "relogio_pt.mp3" },
+      { "name_item": "Telefone", "image_id": "telefone.png", "sound_id": "trim_real.mp3", "sound_en_id": "telephone_en.mp3", "sound_pt_id": "telefone_pt.mp3" },
+      { "name_item": "Televisão", "image_id": "televisao.png", "sound_id": "estatica_real.mp3", "sound_en_id": "tv_en.mp3", "sound_pt_id": "televisao_pt.mp3" },
+      { "name_item": "Vassoura", "image_id": "vassoura.png", "sound_id": "varrer_real.mp3", "sound_en_id": "broom_en.mp3", "sound_pt_id": "vassoura_pt.mp3" }
+    ]
+  },  
+  {
+    "name": "Instrumentos Musicais",
+    "color": "#E91E63",
+    "items": [
+      { "name_item": "Bateria", "image_id": "bateria.png", "sound_id": "bateria_real.mp3", "sound_en_id": "drums_en.mp3", "sound_pt_id": "bateria_pt.mp3" },
+      { "name_item": "Flauta", "image_id": "flauta.png", "sound_id": "flauta_real.mp3", "sound_en_id": "flute_en.mp3", "sound_pt_id": "flauta_pt.mp3" },
+      { "name_item": "Gaita", "image_id": "gaita.png", "sound_id": "gaita_real.mp3", "sound_en_id": "harmonica_en.mp3", "sound_pt_id": "gaita_pt.mp3" },
+      { "name_item": "Guitarra", "image_id": "guitarra.png", "sound_id": "guitarra_real.mp3", "sound_en_id": "guitar_en.mp3", "sound_pt_id": "guitarra_pt.mp3" },
+      { "name_item": "Harpa", "image_id": "harpa.png", "sound_id": "harpa_real.mp3", "sound_en_id": "harp_en.mp3", "sound_pt_id": "harpa_pt.mp3" },
+      { "name_item": "Pandeiro", "image_id": "pandeiro.png", "sound_id": "pandeiro_real.mp3", "sound_en_id": "tambourine_en.mp3", "sound_pt_id": "pandeiro_pt.mp3" },
+      { "name_item": "Piano", "image_id": "piano.png", "sound_id": "piano_real.mp3", "sound_en_id": "piano_en.mp3", "sound_pt_id": "piano_pt.mp3" },
+      { "name_item": "Sinfonia", "image_id": "maestro.png", "sound_id": "orquestra_real.mp3", "sound_en_id": "orchestra_en.mp3", "sound_pt_id": "orquestra_pt.mp3" },
+      { "name_item": "Tambor", "image_id": "tambor.png", "sound_id": "tambor_real.mp3", "sound_en_id": "drum_en.mp3", "sound_pt_id": "tambor_pt.mp3" },
+      { "name_item": "Teclado", "image_id": "teclado_musical.png", "sound_id": "teclado_real.mp3", "sound_en_id": "keyboard_en.mp3", "sound_pt_id": "teclado_pt.mp3" },
+      { "name_item": "Triângulo", "image_id": "triangulo.png", "sound_id": "triangulo_real.mp3", "sound_en_id": "triangle_en.mp3", "sound_pt_id": "triangulo_pt.mp3" },
+      { "name_item": "Trompete", "image_id": "trompete.png", "sound_id": "trompete_real.mp3", "sound_en_id": "trumpet_en.mp3", "sound_pt_id": "trompete_pt.mp3" },
+      { "name_item": "Violão", "image_id": "violao.png", "sound_id": "violao_real.mp3", "sound_en_id": "acoustic_guitar_en.mp3", "sound_pt_id": "violao_pt.mp3" },
+      { "name_item": "Violino", "image_id": "violino.png", "sound_id": "violino_real.mp3", "sound_en_id": "violin_en.mp3", "sound_pt_id": "violino_pt.mp3" },
+      { "name_item": "Xilofone", "image_id": "xilofone.png", "sound_id": "xilofone_real.mp3", "sound_en_id": "xylophone_en.mp3", "sound_pt_id": "xilofone_pt.mp3" }
+    ]
+  },
+  {
+    "name": "Sons da Natureza",
+    "color": "#3F51B5",
+    "items": [
+      { "name_item": "Cachoeira", "image_id": "cachoeira.png", "sound_id": "cachoeira_real.mp3", "sound_en_id": "waterfall_en.mp3", "sound_pt_id": "cachoeira_pt.mp3" },
+      { "name_item": "Chuva", "image_id": "chuva.png", "sound_id": "chuva_real.mp3", "sound_en_id": "rain_en.mp3", "sound_pt_id": "chuva_pt.mp3" },
+      { "name_item": "Fogo", "image_id": "fogueira.png", "sound_id": "fogo_real.mp3", "sound_en_id": "fire_en.mp3", "sound_pt_id": "fogo_pt.mp3" },
+      { "name_item": "Mar", "image_id": "ondas_mar.png", "sound_id": "mar_real.mp3", "sound_en_id": "ocean_en.mp3", "sound_pt_id": "mar_pt.mp3" },
+      { "name_item": "Neve", "image_id": "neve.png", "sound_id": "vento_gelado_real.mp3", "sound_en_id": "snow_en.mp3", "sound_pt_id": "neve_pt.mp3" },
+      { "name_item": "Noite", "image_id": "noite.png", "sound_id": "grilos_noite_real.mp3", "sound_en_id": "night_en.mp3", "sound_pt_id": "noite_pt.mp3" },
+      { "name_item": "Passarinhos", "image_id": "floresta.png", "sound_id": "passaros_real.mp3", "sound_en_id": "birds_nature_en.mp3", "sound_pt_id": "passarinhos_pt.mp3" },
+      { "name_item": "Rio", "image_id": "rio.png", "sound_id": "rio_corrente_real.mp3", "sound_en_id": "river_en.mp3", "sound_pt_id": "rio_pt.mp3" },
+      { "name_item": "Trovão", "image_id": "trovao.png", "sound_id": "trovao_real.mp3", "sound_en_id": "thunder_en.mp3", "sound_pt_id": "trovao_pt.mp3" },
+      { "name_item": "Vento", "image_id": "vento.png", "sound_id": "vento_forte_real.mp3", "sound_en_id": "wind_en.mp3", "sound_pt_id": "vento_pt.mp3" }
+    ]
+  },
+  {
+    "name": "Répteis e Anfíbios",
+    "color": "#8BC34A",
+    "items": [
+      { "name_item": "Axolote", "image_id": "axolote.png", "sound_id": "axolote_real.mp3", "sound_en_id": "axolotl_en.mp3", "sound_pt_id": "axolote_pt.mp3" },
+      { "name_item": "Calango", "image_id": "calango.png", "sound_id": "calango_real.mp3", "sound_en_id": "lizard_alt_en.mp3", "sound_pt_id": "calango_pt.mp3" },
+      { "name_item": "Camaleão", "image_id": "camaleao.png", "sound_id": "camaleao_real.mp3", "sound_en_id": "chameleon_en.mp3", "sound_pt_id": "camaleao_pt.mp3" },
+      { "name_item": "Cascavel", "image_id": "cascavel.png", "sound_id": "cascavel_real.mp3", "sound_en_id": "rattlesnake_en.mp3", "sound_pt_id": "cascavel_pt.mp3" },
+      { "name_item": "Crocodilo", "image_id": "crocodilo.png", "sound_id": "crocodilo_real.mp3", "sound_en_id": "crocodile_en.mp3", "sound_pt_id": "crocodilo_pt.mp3" },
+      { "name_item": "Dragão-de-komodo", "image_id": "komodo.png", "sound_id": "komodo_real.mp3", "sound_en_id": "komodo_en.mp3", "sound_pt_id": "komodo_pt.mp3" },
+      { "name_item": "Geco", "image_id": "geco.png", "sound_id": "geco_real.mp3", "sound_en_id": "gecko_en.mp3", "sound_pt_id": "geco_pt.mp3" },
+      { "name_item": "Iguana", "image_id": "iguana.png", "sound_id": "iguana_real.mp3", "sound_en_id": "iguana_en.mp3", "sound_pt_id": "iguana_pt.mp3" },
+      { "name_item": "Jabuti", "image_id": "jabuti_repteis.png", "sound_id": "jabuti_real.mp3", "sound_en_id": "tortoise_en.mp3", "sound_pt_id": "jabuti_pt.mp3" },
+      { "name_item": "Lagartixa", "image_id": "lagartixa.png", "sound_id": "lagartixa_real.mp3", "sound_en_id": "house_lizard_en.mp3", "sound_pt_id": "lagartixa_pt.mp3" },
+      { "name_item": "Lagarto", "image_id": "lagarto.png", "sound_id": "lagarto_real.mp3", "sound_en_id": "lizard_en.mp3", "sound_pt_id": "lagarto_pt.mp3" },
+      { "name_item": "Perereca", "image_id": "perereca.png", "sound_id": "perereca_real.mp3", "sound_en_id": "tree_frog_en.mp3", "sound_pt_id": "perereca_pt.mp3" },
+      { "name_item": "Rã", "image_id": "ra.png", "sound_id": "ra_real.mp3", "sound_en_id": "frog_en.mp3", "sound_pt_id": "ra_pt.mp3" },
+      { "name_item": "Salamandra", "image_id": "salamandra.png", "sound_id": "salamandra_real.mp3", "sound_en_id": "salamander_en.mp3", "sound_pt_id": "salamandra_pt.mp3" },
+      { "name_item": "Sapo", "image_id": "sapo.png", "sound_id": "sapo_real.mp3", "sound_en_id": "toad_en.mp3", "sound_pt_id": "sapo_pt.mp3" },
+      { "name_item": "Sucuri", "image_id": "sucuri.png", "sound_id": "sucuri_real.mp3", "sound_en_id": "anaconda_en.mp3", "sound_pt_id": "sucuri_pt.mp3" },
+      { "name_item": "Tartaruga", "image_id": "tartaruga.png", "sound_id": "tartaruga_real.mp3", "sound_en_id": "turtle_en.mp3", "sound_pt_id": "tartaruga_pt.mp3" },
+      { "name_item": "Tritão", "image_id": "tritao.png", "sound_id": "tritao_real.mp3", "sound_en_id": "newt_en.mp3", "sound_pt_id": "tritao_pt.mp3" }
+    ]
+  }
+]
