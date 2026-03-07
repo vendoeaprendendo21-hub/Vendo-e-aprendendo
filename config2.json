@@ -114,6 +114,23 @@
     ]
   },
   {
+    "name": "Cores",
+    "color": "#f2f222",
+    "items": [
+      { "name_item": "Amarelo", "image_id": "amarelo.jpg", "sound_id": "amarelo_pt.mp3", "sound_en_id": "yellow_en.mp3", "sound_pt_id": "amarelo_pt.mp3" },
+      { "name_item": "Azul", "image_id": "azul.jpg", "sound_id": "azul_pt.mp3", "sound_en_id": "blue_en.mp3", "sound_pt_id": "azul_pt.mp3" },
+      { "name_item": "Verde", "image_id": "verde.jpg", "sound_id": "verde_pt.mp3", "sound_en_id": "green_en.mp3", "sound_pt_id": "verde_pt.mp3" },
+      { "name_item": "Vermelho", "image_id": "vermelho.jpg", "sound_id": "vermelho_pt.mp3", "sound_en_id": "red_en.mp3", "sound_pt_id": "vermelho_pt.mp3" },
+      { "name_item": "Laranja", "image_id": "laranja.jpg", "sound_id": "laranja_pt.mp3", "sound_en_id": "orange_en.mp3", "sound_pt_id": "laranja_pt.mp3" },
+      { "name_item": "Roxo", "image_id": "roxo.jpg", "sound_id": "roxo_pt.mp3", "sound_en_id": "purple_en.mp3", "sound_pt_id": "roxo_pt.mp3" },
+      { "name_item": "Rosa", "image_id": "rosa.jpg", "sound_id": "rosa_pt.mp3", "sound_en_id": "pink_en.mp3", "sound_pt_id": "rosa_pt.mp3" },
+      { "name_item": "Preto", "image_id": "preto.jpg", "sound_id": "preto_pt.mp3", "sound_en_id": "black_en.mp3", "sound_pt_id": "preto_pt.mp3" },
+      { "name_item": "Branco", "image_id": "branco.jpg", "sound_id": "branco_pt.mp3", "sound_en_id": "white_en.mp3", "sound_pt_id": "branco_pt.mp3" },
+      { "name_item": "Marrom", "image_id": "marrom.jpg", "sound_id": "marrom_pt.mp3", "sound_en_id": "brown_en.mp3", "sound_pt_id": "marrom_pt.mp3" },
+      { "name_item": "Cinza", "image_id": "cinza.jpg", "sound_id": "cinza_pt.mp3", "sound_en_id": "gray_en.mp3", "sound_pt_id": "cinza_pt.mp3" }
+    ]
+  },
+  {
     "name": "Dinossauros",
     "color": "#795548",
     "items": [
@@ -257,6 +274,54 @@
       { "name_item": "Sucuri", "image_id": "sucuri.png", "sound_id": "sucuri_real.mp3", "sound_en_id": "anaconda_en.mp3", "sound_pt_id": "sucuri_pt.mp3" },
       { "name_item": "Tartaruga", "image_id": "tartaruga.png", "sound_id": "tartaruga_real.mp3", "sound_en_id": "turtle_en.mp3", "sound_pt_id": "tartaruga_pt.mp3" },
       { "name_item": "Tritão", "image_id": "tritao.png", "sound_id": "tritao_real.mp3", "sound_en_id": "newt_en.mp3", "sound_pt_id": "tritao_pt.mp3" }
+    ]
+  },
+  {
+    "name": "Frutas e Alimentos",
+    "color": "#FF9800",
+    "items": [
+      { "name_item": "Abacaxi", "image_id": "abacaxi.png", "sound_id": "abacaxi_pt.mp3", "sound_en_id": "pineapple_en.mp3", "sound_pt_id": "abacaxi_pt.mp3" },
+      { "name_item": "Banana", "image_id": "banana.png", "sound_id": "banana_pt.mp3", "sound_en_id": "banana_en.mp3", "sound_pt_id": "banana_pt.mp3" },
+      { "name_item": "Cenoura", "image_id": "cenoura.png", "sound_id": "cenoura_pt.mp3", "sound_en_id": "carrot_en.mp3", "sound_pt_id": "cenoura_pt.mp3" },
+      { "name_item": "Coco", "image_id": "coco.png", "sound_id": "quebra_coco_real.mp3", "sound_en_id": "coconut_en.mp3", "sound_pt_id": "coco_pt.mp3" },
+      { "name_item": "Laranja", "image_id": "laranja_fruta.png", "sound_id": "laranja_pt.mp3", "sound_en_id": "orange_en.mp3", "sound_pt_id": "laranja_pt.mp3" },
+      { "name_item": "Maçã", "image_id": "maca.png", "sound_id": "mordida_maca_real.mp3", "sound_en_id": "apple_en.mp3", "sound_pt_id": "maca_pt.mp3" },
+      { "name_item": "Melancia", "image_id": "melancia.png", "sound_id": "melancia_pt.mp3", "sound_en_id": "watermelon_en.mp3", "sound_pt_id": "melancia_pt.mp3" },
+      { "name_item": "Morango", "image_id": "morango.png", "sound_id": "morango_pt.mp3", "sound_en_id": "strawberry_en.mp3", "sound_pt_id": "morango_pt.mp3" },
+      { "name_item": "Ovo", "image_id": "ovo.png", "sound_id": "quebra_ovo_real.mp3", "sound_en_id": "egg_en.mp3", "sound_pt_id": "ovo_pt.mp3" },
+      { "name_item": "Pão", "image_id": "pao.png", "sound_id": "pao_pt.mp3", "sound_en_id": "bread_en.mp3", "sound_pt_id": "pao_pt.mp3" },
+      { "name_item": "Pêra", "image_id": "pera.png", "sound_id": "pera_pt.mp3", "sound_en_id": "pear_en.mp3", "sound_pt_id": "pera_pt.mp3" },
+      { "name_item": "Uva", "image_id": "uva.png", "sound_id": "uva_pt.mp3", "sound_en_id": "grapes_en.mp3", "sound_pt_id": "uva_pt.mp3" }
+    ]
+  },
+  {
+    "name": "Números",
+    "color": "#673AB7",
+    "items": [
+      { "name_item": "Um", "image_id": "num_1.png", "sound_id": "1_pt.mp3", "sound_en_id": "one_en.mp3", "sound_pt_id": "1_pt.mp3" },
+      { "name_item": "Dois", "image_id": "num_2.png", "sound_id": "2_pt.mp3", "sound_en_id": "two_en.mp3", "sound_pt_id": "2_pt.mp3" },
+      { "name_item": "Três", "image_id": "num_3.png", "sound_id": "3_pt.mp3", "sound_en_id": "three_en.mp3", "sound_pt_id": "3_pt.mp3" },
+      { "name_item": "Quatro", "image_id": "num_4.png", "sound_id": "4_pt.mp3", "sound_en_id": "four_en.mp3", "sound_pt_id": "4_pt.mp3" },
+      { "name_item": "Cinco", "image_id": "num_5.png", "sound_id": "5_pt.mp3", "sound_en_id": "five_en.mp3", "sound_pt_id": "5_pt.mp3" },
+      { "name_item": "Seis", "image_id": "num_6.png", "sound_id": "6_pt.mp3", "sound_en_id": "six_en.mp3", "sound_pt_id": "6_pt.mp3" },
+      { "name_item": "Sete", "image_id": "num_7.png", "sound_id": "7_pt.mp3", "sound_en_id": "seven_en.mp3", "sound_pt_id": "7_pt.mp3" },
+      { "name_item": "Oito", "image_id": "num_8.png", "sound_id": "8_pt.mp3", "sound_en_id": "eight_en.mp3", "sound_pt_id": "8_pt.mp3" },
+      { "name_item": "Nove", "image_id": "num_9.png", "sound_id": "9_pt.mp3", "sound_en_id": "nine_en.mp3", "sound_pt_id": "9_pt.mp3" },
+      { "name_item": "Dez", "image_id": "num_10.png", "sound_id": "10_pt.mp3", "sound_en_id": "ten_en.mp3", "sound_pt_id": "10_pt.mp3" }
+    ]
+  },
+  {
+    "name": "Formas Geométricas",
+    "color": "#009688",
+    "items": [
+      { "name_item": "Círculo", "image_id": "forma_circulo.png", "sound_id": "circulo_pt.mp3", "sound_en_id": "circle_en.mp3", "sound_pt_id": "circulo_pt.mp3" },
+      { "name_item": "Coração", "image_id": "forma_coracao.png", "sound_id": "batida_coracao_real.mp3", "sound_en_id": "heart_en.mp3", "sound_pt_id": "coracao_pt.mp3" },
+      { "name_item": "Estrela", "image_id": "forma_estrela.png", "sound_id": "brilho_real.mp3", "sound_en_id": "star_en.mp3", "sound_pt_id": "estrela_pt.mp3" },
+      { "name_item": "Hexágono", "image_id": "forma_hexagono.png", "sound_id": "hexagono_pt.mp3", "sound_en_id": "hexagon_en.mp3", "sound_pt_id": "hexagono_pt.mp3" },
+      { "name_item": "Losango", "image_id": "forma_losango.png", "sound_id": "losango_pt.mp3", "sound_en_id": "diamond_en.mp3", "sound_pt_id": "losango_pt.mp3" },
+      { "name_item": "Quadrado", "image_id": "forma_quadrado.png", "sound_id": "quadrado_pt.mp3", "sound_en_id": "square_en.mp3", "sound_pt_id": "quadrado_pt.mp3" },
+      { "name_item": "Retângulo", "image_id": "forma_retangulo.png", "sound_id": "retangulo_pt.mp3", "sound_en_id": "rectangle_en.mp3", "sound_pt_id": "retangulo_pt.mp3" },
+      { "name_item": "Triângulo", "image_id": "forma_triangulo.png", "sound_id": "triangulo_pt.mp3", "sound_en_id": "triangle_en.mp3", "sound_pt_id": "triangulo_pt.mp3" }
     ]
   }
 ]
