@@ -19,7 +19,7 @@
       { "name_item": "Ovelha", "image_id": "ovelha.jpg", "sound_id": "ovelha_real.mp3", "sound_en_id": "sheep_en.mp3", "sound_pt_id": "ovelha_pt.mp3" },
       { "name_item": "Pato", "image_id": "pato.jpg", "sound_id": "pato_real.mp3", "sound_en_id": "duck_en.mp3", "sound_pt_id": "pato_pt.mp3" },
       { "name_item": "Peru", "image_id": "peru.jpg", "sound_id": "peru_real.mp3", "sound_en_id": "turkey_en.mp3", "sound_pt_id": "peru_pt.mp3" },
-      { "name_item": "Pintinho", "image_id": "Pintinho.jpg", "sound_id": "Pintinho_real.mp3", "sound_en_id": "chick_en.mp3", "sound_pt_id": "Pintinho_pt.mp3" },
+      { "name_item": "Pintinho", "image_id": "pintinho.jpg", "sound_id": "Pintinho_real.mp3", "sound_en_id": "chick_en.mp3", "sound_pt_id": "Pintinho_pt.mp3" },
       { "name_item": "Porco", "image_id": "porco.jpg", "sound_id": "porco_real.mp3", "sound_en_id": "pig_en.mp3", "sound_pt_id": "porco_pt.mp3" },
       { "name_item": "Touro", "image_id": "touro.jpg", "sound_id": "touro_real.mp3", "sound_en_id": "bull_en.mp3", "sound_pt_id": "touro_pt.mp3" },
       { "name_item": "Vaca", "image_id": "vaca.jpg", "sound_id": "vaca_real.mp3", "sound_en_id": "cow_en.mp3", "sound_pt_id": "vaca_pt.mp3" }
