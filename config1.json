@@ -59,17 +59,80 @@
     "items": [
       {
         "name_item": "Amarelo",
-        "image_id": "amarelo.png",
+        "image_id": "amarelo.jpg",
         "sound_id": "",
         "sound_en_id": "yellow_en.mp3",
         "sound_pt_id": "amarelo_pt.mp3"
-      }
+      },
       {
         "name_item": "Azul",
-        "image_id": "azul.png",
+        "image_id": "azul.jpg",
         "sound_id": "",
         "sound_en_id": "blue_en.mp3",
         "sound_pt_id": "azul_pt.mp3"
+      },
+      {
+        "name_item": "Verde",
+        "image_id": "verde.jpg",
+        "sound_id": "",
+        "sound_en_id": "green_en.mp3",
+        "sound_pt_id": "verde_pt.mp3"
+      },
+      {
+        "name_item": "Vermelho",
+        "image_id": "vermelho.jpg",
+        "sound_id": "",
+        "sound_en_id": "red_en.mp3",
+        "sound_pt_id": "vermelho_pt.mp3"
+      },
+      {
+        "name_item": "Laranja",
+        "image_id": "laranja.jpg",
+        "sound_id": "",
+        "sound_en_id": "orange_en.mp3",
+        "sound_pt_id": "laranja_pt.mp3"
+      },
+      {
+        "name_item": "Roxo",
+        "image_id": "roxo.jpg",
+        "sound_id": "",
+        "sound_en_id": "purple_en.mp3",
+        "sound_pt_id": "roxo_pt.mp3"
+      },
+      {
+        "name_item": "Rosa",
+        "image_id": "rosa.jpg",
+        "sound_id": "",
+        "sound_en_id": "pink_en.mp3",
+        "sound_pt_id": "rosa_pt.mp3"
+      },
+      {
+        "name_item": "Preto",
+        "image_id": "preto.jpg",
+        "sound_id": "",
+        "sound_en_id": "black_en.mp3",
+        "sound_pt_id": "preto_pt.mp3"
+      },
+      {
+        "name_item": "Branco",
+        "image_id": "branco.jpg",
+        "sound_id": "",
+        "sound_en_id": "white_en.mp3",
+        "sound_pt_id": "branco_pt.mp3"
+      },
+      {
+        "name_item": "Marrom",
+        "image_id": "marrom.jpg",
+        "sound_id": "",
+        "sound_en_id": "brown_en.mp3",
+        "sound_pt_id": "marrom_pt.mp3"
+      },
+      {
+        "name_item": "Cinza",
+        "image_id": "cinza.jpg",
+        "sound_id": "",
+        "sound_en_id": "gray_en.mp3",
+        "sound_pt_id": "cinza_pt.mp3"
       }
     ]
   },
