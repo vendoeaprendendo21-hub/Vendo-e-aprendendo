@@ -2,8 +2,8 @@
   {
     "name": "Animais de Fazenda",
     "color": "#4CAF50",
-    "sound_pt_id": "vaca_pt.mp3",
-    "sound_en_id": "cow_en.mp3",
+    "sound_pt_id": "cachorro_pt.mp3",
+    "sound_en_id": "dog_en.mp3",
     "items": [
       { "name_item": "Abelha", "image_id": "abelha.jpg", "sound_id": "abelha_real.mp3", "sound_en_id": "bee_en.mp3", "sound_pt_id": "abelha_pt.mp3" },
       { "name_item": "Bode", "image_id": "bode.jpg", "sound_id": "bode_real.mp3", "sound_en_id": "goat_en.mp3", "sound_pt_id": "bode_pt.mp3" },
