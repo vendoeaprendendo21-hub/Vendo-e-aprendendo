@@ -1,6 +1,6 @@
 [
   {
-    "name": "Animais de Fazenda",
+    "name": "Animais da Fazenda ",
     "color": "#4CAF50",
     "sound_pt_id": "cachorro_pt.mp3",
     "sound_en_id": "dog_en.mp3",
@@ -24,22 +24,11 @@
       { "name_item": "Pintinho", "image_id": "pintinho.jpg", "sound_id": "pintinho_real.mp3", "sound_en_id": "chick_en.mp3", "sound_pt_id": "pintinho_pt.mp3" },
       { "name_item": "Porco", "image_id": "porco.jpg", "sound_id": "porco_real.mp3", "sound_en_id": "pig_en.mp3", "sound_pt_id": "porco_pt.mp3" },
       { "name_item": "Touro", "image_id": "touro.jpg", "sound_id": "touro_real.mp3", "sound_en_id": "bull_en.mp3", "sound_pt_id": "touro_pt.mp3" },
-      { "name_item": "Vaca", "image_id": "vaca.jpg", "sound_id": "vaca_real.mp3", "sound_en_id": "cow_en.mp3", "sound_pt_id": "vaca_pt.mp3" }
-    ]
-  },
-  {
-    "name": "Animais Domésticos",
-    "color": "#2196F3",
-    "sound_pt_id": "animais_de_fazenda_pt.mp3",
-    "sound_en_id": "animais_de_fazenda_en.mp3",
-    "items": [
-      { "name_item": "Cachorro", "image_id": "cachorro.png", "sound_id": "cachorro_real.mp3", "sound_en_id": "dog_en.mp3", "sound_pt_id": "cachorro_pt.mp3" },
+      { "name_item": "Vaca", "image_id": "vaca.jpg", "sound_id": "vaca_real.mp3", "sound_en_id": "cow_en.mp3", "sound_pt_id": "vaca_pt.mp3" },
       { "name_item": "Calopsita", "image_id": "calopsita.png", "sound_id": "calopsita_real.mp3", "sound_en_id": "cockatiel_en.mp3", "sound_pt_id": "calopsita_pt.mp3" },
       { "name_item": "Canário", "image_id": "canario.png", "sound_id": "canario_real.mp3", "sound_en_id": "canary_en.mp3", "sound_pt_id": "canario_pt.mp3" },
       { "name_item": "Chinchila", "image_id": "chinchila.png", "sound_id": "chinchila_real.mp3", "sound_en_id": "chinchilla_en.mp3", "sound_pt_id": "chinchila_pt.mp3" },
-      { "name_item": "Coelho", "image_id": "coelho.jpg", "sound_id": "coelho_real.mp3", "sound_en_id": "rabbit_en.mp3", "sound_pt_id": "coelho_pt.mp3" },
       { "name_item": "Ferret", "image_id": "ferret.png", "sound_id": "ferret_real.mp3", "sound_en_id": "ferret_en.mp3", "sound_pt_id": "ferret_pt.mp3" },
-      { "name_item": "Gato", "image_id": "gato.png", "sound_id": "gato_real.mp3", "sound_en_id": "cat_en.mp3", "sound_pt_id": "gato_pt.mp3" },
       { "name_item": "Hamster", "image_id": "hamster.png", "sound_id": "hamster_real.mp3", "sound_en_id": "hamster_en.mp3", "sound_pt_id": "hamster_pt.mp3" },
       { "name_item": "Iguana", "image_id": "iguana_pet.png", "sound_id": "iguana_real.mp3", "sound_en_id": "iguana_en.mp3", "sound_pt_id": "iguana_pt.mp3" },
       { "name_item": "Jabuti", "image_id": "jabuti.png", "sound_id": "jabuti_real.mp3", "sound_en_id": "tortoise_en.mp3", "sound_pt_id": "jabuti_pt.mp3" },
@@ -52,8 +41,8 @@
   {
     "name": "Animais Marinhos",
     "color": "#00BCD4",
-    "sound_pt_id": "animais_de_fazenda_pt.mp3",
-    "sound_en_id": "animais_de_fazenda_en.mp3",
+    "sound_pt_id": "animais_marinhos_pt.mp3",
+    "sound_en_id": "animais_marinhos_en.mp3",
     "items": [
       { "name_item": "Arraia", "image_id": "arraia.png", "sound_id": "arraia_real.mp3", "sound_en_id": "stingray_en.mp3", "sound_pt_id": "arraia_pt.mp3" },
       { "name_item": "Baleia", "image_id": "baleia.png", "sound_id": "baleia_real.mp3", "sound_en_id": "whale_en.mp3", "sound_pt_id": "baleia_pt.mp3" },
