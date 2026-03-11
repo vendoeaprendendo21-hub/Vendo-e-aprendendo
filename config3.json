@@ -5,16 +5,16 @@
     "sound_pt_id": "numeros_pt.mp3",
     "sound_en_id": "numbers_en.mp3",
     "items": [
-      { "name_item": "Um", "image_id": "num_1.png", "sound_id": "1_pt.mp3", "sound_en_id": "one_en.mp3", "sound_pt_id": "1_pt.mp3" },
-      { "name_item": "Dois", "image_id": "num_2.png", "sound_id": "2_pt.mp3", "sound_en_id": "two_en.mp3", "sound_pt_id": "2_pt.mp3" },
-      { "name_item": "Três", "image_id": "num_3.png", "sound_id": "3_pt.mp3", "sound_en_id": "three_en.mp3", "sound_pt_id": "3_pt.mp3" },
-      { "name_item": "Quatro", "image_id": "num_4.png", "sound_id": "4_pt.mp3", "sound_en_id": "four_en.mp3", "sound_pt_id": "4_pt.mp3" },
-      { "name_item": "Cinco", "image_id": "num_5.png", "sound_id": "5_pt.mp3", "sound_en_id": "five_en.mp3", "sound_pt_id": "5_pt.mp3" },
-      { "name_item": "Seis", "image_id": "num_6.png", "sound_id": "6_pt.mp3", "sound_en_id": "six_en.mp3", "sound_pt_id": "6_pt.mp3" },
-      { "name_item": "Sete", "image_id": "num_7.png", "sound_id": "7_pt.mp3", "sound_en_id": "seven_en.mp3", "sound_pt_id": "7_pt.mp3" },
-      { "name_item": "Oito", "image_id": "num_8.png", "sound_id": "8_pt.mp3", "sound_en_id": "eight_en.mp3", "sound_pt_id": "8_pt.mp3" },
-      { "name_item": "Nove", "image_id": "num_9.png", "sound_id": "9_pt.mp3", "sound_en_id": "nine_en.mp3", "sound_pt_id": "9_pt.mp3" },
-      { "name_item": "Dez", "image_id": "num_10.png", "sound_id": "10_pt.mp3", "sound_en_id": "ten_en.mp3", "sound_pt_id": "10_pt.mp3" }
+      { "name_item": "Um", "image_id": "num_1.jpg", "sound_id": "1_pt.mp3", "sound_en_id": "one_en.mp3", "sound_pt_id": "1_pt.mp3" },
+      { "name_item": "Dois", "image_id": "num_2.jpg", "sound_id": "2_pt.mp3", "sound_en_id": "two_en.mp3", "sound_pt_id": "2_pt.mp3" },
+      { "name_item": "Três", "image_id": "num_3.jpg", "sound_id": "3_pt.mp3", "sound_en_id": "three_en.mp3", "sound_pt_id": "3_pt.mp3" },
+      { "name_item": "Quatro", "image_id": "num_4.jpg", "sound_id": "4_pt.mp3", "sound_en_id": "four_en.mp3", "sound_pt_id": "4_pt.mp3" },
+      { "name_item": "Cinco", "image_id": "num_5.jpg", "sound_id": "5_pt.mp3", "sound_en_id": "five_en.mp3", "sound_pt_id": "5_pt.mp3" },
+      { "name_item": "Seis", "image_id": "num_6.jpg", "sound_id": "6_pt.mp3", "sound_en_id": "six_en.mp3", "sound_pt_id": "6_pt.mp3" },
+      { "name_item": "Sete", "image_id": "num_7.jpg", "sound_id": "7_pt.mp3", "sound_en_id": "seven_en.mp3", "sound_pt_id": "7_pt.mp3" },
+      { "name_item": "Oito", "image_id": "num_8.jpg", "sound_id": "8_pt.mp3", "sound_en_id": "eight_en.mp3", "sound_pt_id": "8_pt.mp3" },
+      { "name_item": "Nove", "image_id": "num_9.jpg", "sound_id": "9_pt.mp3", "sound_en_id": "nine_en.mp3", "sound_pt_id": "9_pt.mp3" },
+      { "name_item": "Dez", "image_id": "num_10.jpg", "sound_id": "10_pt.mp3", "sound_en_id": "ten_en.mp3", "sound_pt_id": "10_pt.mp3" }
     ]
   },
   {
