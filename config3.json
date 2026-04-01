@@ -76,6 +76,7 @@
       { "name_item": "Morsa", "image_id": "morsa.jpg", "sound_id": "morsa_real.mp3", "sound_en_id": "walrus_en.mp3", "sound_pt_id": "morsa_pt.mp3" },
       { "name_item": "Peixe", "image_id": "peixe.jpg", "sound_id": "peixe_real.mp3", "sound_en_id": "fish_en.mp3", "sound_pt_id": "peixe_pt.mp3" },
       { "name_item": "Peixe-palhaço", "image_id": "peixe_palhaco.jpg", "sound_id": "peixe_palhaco_real.mp3", "sound_en_id": "clownfish_en.mp3", "sound_pt_id": "peixe_palhaco_pt.mp3" },
+      { "name_item": "Peixe-leão", "image_id": "peixe_leao.jpg", "sound_id": "peixe_leao_real.mp3", "sound_en_id": "lionfish_en.mp3", "sound_pt_id": "peixe_leao_pt.mp3" },
       { "name_item": "Polvo", "image_id": "polvo.jpg", "sound_id": "polvo_real.mp3", "sound_en_id": "octopus_en.mp3", "sound_pt_id": "polvo_pt.mp3" },
       { "name_item": "Tartaruga Marinha", "image_id": "tartaruga_marinha.jpg", "sound_id": "tartaruga_marinha_real.mp3", "sound_en_id": "sea_turtle_en.mp3", "sound_pt_id": "tartaruga_marinha_pt.mp3" },
       { "name_item": "Tubarão", "image_id": "tubarao.jpg", "sound_id": "tubarao_real.mp3", "sound_en_id": "shark_en.mp3", "sound_pt_id": "tubarao_pt.mp3" }
