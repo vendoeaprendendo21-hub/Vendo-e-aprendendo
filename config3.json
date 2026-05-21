@@ -94,7 +94,7 @@
       { "name_item": "Gorila", "image_id": "gorila.jpg", "sound_id": "gorila_real.mp3", "sound_en_id": "gorilla_en.mp3", "sound_pt_id": "gorila_pt.mp3" },
       { "name_item": "Hipopótamo", "image_id": "hipopotamo.jpg", "sound_id": "hipopotamo_real.mp3", "sound_en_id": "hippo_en.mp3", "sound_pt_id": "hipopotamo_pt.mp3" },
       { "name_item": "Jacaré", "image_id": "jacare.jpg", "sound_id": "jacare_real.mp3", "sound_en_id": "alligator_en.mp3", "sound_pt_id": "jacare_pt.mp3" },
-      { "name_item": "Kanguru", "image_id": "kanguru.jpg", "sound_id": "kanguru_real.mp3", "sound_en_id": "kangaroo_en.mp3", "sound_pt_id": "kanguru_pt.mp3" },
+      { "name_item": "Canguru", "image_id": "canguru.jpg", "sound_id": "canguru_real.mp3", "sound_en_id": "kangaroo_en.mp3", "sound_pt_id": "canguru_pt.mp3" },
       { "name_item": "Leão", "image_id": "leao.jpg", "sound_id": "leao_real.mp3", "sound_en_id": "lion_en.mp3", "sound_pt_id": "leao_pt.mp3" },
       { "name_item": "Leopardo", "image_id": "leopardo.jpg", "sound_id": "leopardo_real.mp3", "sound_en_id": "leopard_en.mp3", "sound_pt_id": "leopardo_pt.mp3" },
       { "name_item": "Lobo", "image_id": "lobo.jpg", "sound_id": "lobo_real.mp3", "sound_en_id": "wolf_en.mp3", "sound_pt_id": "lobo_pt.mp3" },
