@@ -102,6 +102,7 @@
       { "name_item": "Rinoceronte", "image_id": "rinoceronte.jpg", "sound_id": "rinoceronte_real.mp3", "sound_en_id": "rhino_en.mp3", "sound_pt_id": "rinoceronte_pt.mp3" },
       { "name_item": "Tigre", "image_id": "tigre.jpg", "sound_id": "tigre_real.mp3", "sound_en_id": "tiger_en.mp3", "sound_pt_id": "tigre_pt.mp3" },
       { "name_item": "Urso", "image_id": "urso.jpg", "sound_id": "urso_real.mp3", "sound_en_id": "bear_en.mp3", "sound_pt_id": "urso_pt.mp3" },
+      { "name_item": "Urso Polar", "image_id": "urso_polar.jpg", "sound_id": "urso_polar_real.mp3", "sound_en_id": "polar_bear_en.mp3", "sound_pt_id": "urso_polar_pt.mp3" },
       { "name_item": "Zebra", "image_id": "zebra.jpg", "sound_id": "zebra_real.mp3", "sound_en_id": "zebra_en.mp3", "sound_pt_id": "zebra_pt.mp3" }
     ]
   },
@@ -179,7 +180,7 @@
     "sound_pt_id": "insetos_pt.mp3",
     "sound_en_id": "insects_en.mp3",
     "items": [
-      { "name_item": "Abelha", "image_id": "abelha_inseto.jpg", "sound_id": "abelha_real.mp3", "sound_en_id": "bee_en.mp3", "sound_pt_id": "abelha_pt.mp3" },
+      { "name_item": "Abelha", "image_id": "abelha.jpg", "sound_id": "abelha_real.mp3", "sound_en_id": "bee_en.mp3", "sound_pt_id": "abelha_pt.mp3" },
       { "name_item": "Aranha", "image_id": "aranha.jpg", "sound_id": "aranha_real.mp3", "sound_en_id": "spider_en.mp3", "sound_pt_id": "aranha_pt.mp3" },
       { "name_item": "Barata", "image_id": "barata.jpg", "sound_id": "barata_real.mp3", "sound_en_id": "cockroach_en.mp3", "sound_pt_id": "barata_pt.mp3" },
       { "name_item": "Besouro", "image_id": "besouro.jpg", "sound_id": "besouro_real.mp3", "sound_en_id": "beetle_en.mp3", "sound_pt_id": "besouro_pt.mp3" },
