@@ -210,7 +210,7 @@
       { "name_item": "Barco", "image_id": "barco.jpg", "sound_id": "barco_real.mp3", "sound_en_id": "boat_en.mp3", "sound_pt_id": "barco_pt.mp3" },
       { "name_item": "Bicicleta", "image_id": "bicicleta.jpg", "sound_id": "bicicleta_real.mp3", "sound_en_id": "bicycle_en.mp3", "sound_pt_id": "bicicleta_pt.mp3" },
       { "name_item": "Caminhão", "image_id": "caminhao.jpg", "sound_id": "caminhao_real.mp3", "sound_en_id": "truck_en.mp3", "sound_pt_id": "caminhao_pt.mp3" },
-      { "name_item": "Carro", "image_id": "carro.jpg", "sound_id": "carro_real.mp3", "sound_en_id": "car_en.mp3", "sound_pt_id": "carro_pt.mp3" },
+      { "name_item": "Carro", "image_id": "carro.png", "sound_id": "carro_real.mp3", "sound_en_id": "car_en.mp3", "sound_pt_id": "carro_pt.mp3" },
       { "name_item": "Foguete", "image_id": "foguete.jpg", "sound_id": "foguete_real.mp3", "sound_en_id": "rocket_en.mp3", "sound_pt_id": "foguete_pt.mp3" },
       { "name_item": "Helicóptero", "image_id": "helicoptero.jpg", "sound_id": "helicoptero_real.mp3", "sound_en_id": "helicopter_en.mp3", "sound_pt_id": "helicoptero_pt.mp3" },
       { "name_item": "Moto", "image_id": "moto.jpg", "sound_id": "moto_real.mp3", "sound_en_id": "motorcycle_en.mp3", "sound_pt_id": "moto_pt.mp3" },
