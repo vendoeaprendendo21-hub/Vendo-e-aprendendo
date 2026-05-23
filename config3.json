@@ -308,7 +308,7 @@
       { "name_item": "Salamandra", "image_id": "salamandra.jpg", "sound_id": "salamandra_real.mp3", "sound_en_id": "salamander_en.mp3", "sound_pt_id": "salamandra_pt.mp3" },
       { "name_item": "Sapo", "image_id": "sapo.jpg", "sound_id": "sapo_real.mp3", "sound_en_id": "toad_en.mp3", "sound_pt_id": "sapo_pt.mp3" },
       { "name_item": "Sucuri", "image_id": "sucuri.jpg", "sound_id": "sucuri_real.mp3", "sound_en_id": "anaconda_en.mp3", "sound_pt_id": "sucuri_pt.mp3" },
-      { "name_item": "Tartaruga", "image_id": "tartaruga.jpg", "sound_id": "tartaruga_real.mp3", "sound_en_id": "turtle_en.mp3", "sound_pt_id": "tartaruga_pt.mp3" },
+      { "name_item": "Tartaruga", "image_id": "tartaruga_marinha.jpg", "sound_id": "tartaruga_real.mp3", "sound_en_id": "turtle_en.mp3", "sound_pt_id": "tartaruga_pt.mp3" },
       { "name_item": "Tritão", "image_id": "tritao.jpg", "sound_id": "tritao_real.mp3", "sound_en_id": "newt_en.mp3", "sound_pt_id": "tritao_pt.mp3" }
     ]
   },
