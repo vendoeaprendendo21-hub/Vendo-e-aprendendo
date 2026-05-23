@@ -260,7 +260,7 @@
       { "name_item": "Sinfonia", "image_id": "maestro.jpg", "sound_id": "orquestra_real.mp3", "sound_en_id": "orchestra_en.mp3", "sound_pt_id": "orquestra_pt.mp3" },
       { "name_item": "Tambor", "image_id": "tambor.jpg", "sound_id": "tambor_real.mp3", "sound_en_id": "drum_en.mp3", "sound_pt_id": "tambor_pt.mp3" },
       { "name_item": "Teclado", "image_id": "teclado_musical.jpg", "sound_id": "teclado_real.mp3", "sound_en_id": "keyboard_en.mp3", "sound_pt_id": "teclado_pt.mp3" },
-      { "name_item": "Triângulo", "image_id": "triangulo.jpg", "sound_id": "triangulo_real.mp3", "sound_en_id": "triangle_en.mp3", "sound_pt_id": "triangulo_pt.mp3" },
+      { "name_item": "Triângulo", "image_id": "triangulo_musical.jpg", "sound_id": "triangulo_real.mp3", "sound_en_id": "triangle_en.mp3", "sound_pt_id": "triangulo_pt.mp3" },
       { "name_item": "Trompete", "image_id": "trompete.jpg", "sound_id": "trompete_real.mp3", "sound_en_id": "trumpet_en.mp3", "sound_pt_id": "trompete_pt.mp3" },
       { "name_item": "Violão", "image_id": "violao.jpg", "sound_id": "violao_real.mp3", "sound_en_id": "acoustic_guitar_en.mp3", "sound_pt_id": "violao_pt.mp3" },
       { "name_item": "Violino", "image_id": "violino.jpg", "sound_id": "violino_real.mp3", "sound_en_id": "violin_en.mp3", "sound_pt_id": "violino_pt.mp3" },
