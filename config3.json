@@ -275,8 +275,8 @@
     "items": [
       { "name_item": "Cachoeira", "image_id": "cachoeira.jpg", "sound_id": "cachoeira_real.mp3", "sound_en_id": "waterfall_en.mp3", "sound_pt_id": "cachoeira_pt.mp3" },
       { "name_item": "Chuva", "image_id": "chuva.jpg", "sound_id": "chuva_real.mp3", "sound_en_id": "rain_en.mp3", "sound_pt_id": "chuva_pt.mp3" },
-      { "name_item": "Fogo", "image_id": "fogueira.jpg", "sound_id": "fogo_real.mp3", "sound_en_id": "fire_en.mp3", "sound_pt_id": "fogo_pt.mp3" },
-      { "name_item": "Mar", "image_id": "ondas_mar.jpg", "sound_id": "mar_real.mp3", "sound_en_id": "ocean_en.mp3", "sound_pt_id": "mar_pt.mp3" },
+      { "name_item": "Fogo", "image_id": "fogo.jpg", "sound_id": "fogo_real.mp3", "sound_en_id": "fire_en.mp3", "sound_pt_id": "fogo_pt.mp3" },
+      { "name_item": "Mar", "image_id": "mar.jpg", "sound_id": "mar_real.mp3", "sound_en_id": "ocean_en.mp3", "sound_pt_id": "mar_pt.mp3" },
       { "name_item": "Neve", "image_id": "neve.jpg", "sound_id": "vento_gelado_real.mp3", "sound_en_id": "snow_en.mp3", "sound_pt_id": "neve_pt.mp3" },
       { "name_item": "Noite", "image_id": "noite.jpg", "sound_id": "grilos_noite_real.mp3", "sound_en_id": "night_en.mp3", "sound_pt_id": "noite_pt.mp3" },
       { "name_item": "Passarinhos", "image_id": "floresta.jpg", "sound_id": "passaros_real.mp3", "sound_en_id": "birds_nature_en.mp3", "sound_pt_id": "passarinhos_pt.mp3" },
