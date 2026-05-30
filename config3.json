@@ -1,5 +1,17 @@
 [
   {
+    "name": "Os três porquinhos",
+    "color": "#0fd153",
+    "sound_pt_id": "porquinhos_pt.mp3",
+    "sound_en_id": "pigs_en.mp3",
+    "items": [
+      { "name_item": "Página 1", "image_id": "tres_porquinhos_pag_1.jpg", "sound_id": "", "sound_en_id": "pigs_1_en.mp3", "sound_pt_id": "porquinhos_1_pt.mp3" },
+      { "name_item": "Página 2", "image_id": "tres_porquinhos_pag_2.jpg", "sound_id": "", "sound_en_id": "pigs_2_en.mp3", "sound_pt_id": "porquinhos_2_pt.mp3" },
+      { "name_item": "Página 3", "image_id": "tres_porquinhos_pag_3.jpg", "sound_id": "", "sound_en_id": "pigs_3_en.mp3", "sound_pt_id": "porquinhos_3_pt.mp3" },
+      { "name_item": "Página 4", "image_id": "tres_porquinhos_pag_4.jpg", "sound_id": "", "sound_en_id": "pigs_4_en.mp3", "sound_pt_id": "porquinhos_4_pt.mp3" }      
+    ]
+  },
+  {
     "name": "Números",
     "color": "#673AB7",
     "sound_pt_id": "numeros_pt.mp3",
